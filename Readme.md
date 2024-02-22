@@ -43,7 +43,9 @@ python discord_message_sender.py
 ## Notes
 
 - This script uses the `requests` library to interact with the Discord API.
-- Ensure your Discord bot has the necessary permissions to send messages in the specified channel.
+- Ensure your Discord account/bot has the necessary permissions to send messages in the specified channel.
+- This script runs 100% on your local computer
+- **Never share your authentication token with anyone.** Treat it like a password.
 
 ## License
 
