@@ -25,7 +25,7 @@ Before using the script, make sure you have the following:
    - `num_messages`: Set the number of messages to send (use 0 for an infinite loop).
    - `line_delay`: Set the delay between lines (in seconds).
    - `message_interval`: Set the interval between messages (in seconds).
-
+   - `delete_after_send`: Set to `True` if you want sent messages to be automatically deleted, `False` otherwise.
 3. Save the script after making the necessary changes.
 
 4. Run the script:
